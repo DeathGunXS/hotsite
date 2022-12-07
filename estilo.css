@@ -1,0 +1,32 @@
+body{
+    background-color: #001449;
+}
+
+h1{
+    text-align: center;
+    border: #00b4fc 2px solid ;
+    color: #17f9ff;
+    background-color: #005bc5;
+}
+
+p{
+    text-align: center;
+    color: #17f9ff
+}
+
+ul{
+    left: 5px;
+    bottom: 5px;
+    color: #17f9ff;
+}
+
+div{
+    text-align: center;
+    
+}
+
+h2{
+    color: #005bc5
+}
+
+    
